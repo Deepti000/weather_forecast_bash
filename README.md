@@ -26,14 +26,19 @@
 
 5) find difference b/w local system time and city time
 
+
     $ date
       Mon Feb 13 11:28:12 EST 2023
     $ date -u
       Mon Feb 13 16:28:16 UTC 2023
 
+
+
     In the example above, we see that the system time relative to UTC is UTC+5 (i.e. 16 - 11 = 5).We know Casablanca is UTC+1, so the system time relative to Casablanca is 4 hours earlier. Thus to run your script at noon Casablanca time, you need to run it at 8 am.
 
 6) create crontab for noon
 
+
    crontab -e
    0 8 * * * /home/project/rx_poc.sh
+
