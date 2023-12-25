@@ -23,6 +23,9 @@
  
        ![image](https://github.com/Deepti000/weather_forecast_bash/assets/65061604/76b01cb9-4610-4b59-857f-956cc53c471d)
 
+  5) create a file and give it executable access fc_accuracy.sh which provide accuracy of forcast.
+  6) 
+
 
 5) find difference b/w local system time and city time
 
