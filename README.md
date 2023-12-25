@@ -14,7 +14,12 @@
    
              echo -e "year\tmonth\tday\thour\tobs_temp\tfc_temp">rx_poc.log
      
-  3) Create script which obtain information of city Casablanca
+  3) Create script which obtain information of city Casablanca, date info (hour,date,month and year) and current temp and forcasted temp. 
  
             touch rx_poc.sh
             chmod +x rx_poc.sh
+
+  4) Output of script
+ 
+       ![image](https://github.com/Deepti000/weather_forecast_bash/assets/65061604/76b01cb9-4610-4b59-857f-956cc53c471d)
+
