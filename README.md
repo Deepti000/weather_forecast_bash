@@ -45,3 +45,11 @@
    crontab -e
    0 8 * * * /home/project/rx_poc.sh
 
+7) create a file and give it executable access min_max.sh file which give you max and min accuracy despite of -ve values.
+8) soure
+
+     wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-LX0117EN-Coursera/labs/synthetic_historical_fc_accuracy.tsv
+
+9)  ![image](https://github.com/Deepti000/weather_forecast_bash/assets/65061604/77da5c52-dc15-4873-bd6e-393a1263f221)
+
+
